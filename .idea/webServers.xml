@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="2d2284b1-a114-4898-aeef-784a381faf2e" name="phpTest" url="http://localhost">
+        <fileTransfer port="0" mountedRoot="D:\Program Files\nginx-1.11.6\webapp\phpTest" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>
